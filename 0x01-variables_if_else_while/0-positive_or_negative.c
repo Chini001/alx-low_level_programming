@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - prints if a number is positive, zero, or negative
+ * main - Entry point
  *
- * Return: Always (success)
+ * Description: Prints if a number is positive, zero, or negative
  *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -28,5 +29,4 @@ int main(void)
     }
 
     return (0);
-
 }
